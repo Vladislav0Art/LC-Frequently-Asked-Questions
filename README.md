@@ -1,2 +1,2 @@
 # LC-Frequently-Asked-Questions
-Leetcode frequently asked questions
+If you have any questions or requests, please leave it as an issue.
